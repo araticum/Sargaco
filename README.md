@@ -1,4 +1,4 @@
-# Sargaco
+# Sargaço
 
 Imagem derivada do SeaweedFS para o stack do Monstro.
 
